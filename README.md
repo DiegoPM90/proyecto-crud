@@ -1,2 +1,2 @@
 # proyecto-crud
-https://github.com/DiegoPM90/proyecto-crud.git
+https://diegopm90.github.io/proyecto-crud/
