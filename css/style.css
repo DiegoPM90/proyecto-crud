@@ -67,7 +67,7 @@ table th:nth-child(5) {
    }
   
    h5:hover {
-    /* color: #369ba8; */
+  
     font-size: 25px;
     transition: 0.5s;
   }
@@ -165,12 +165,84 @@ table th:nth-child(5) {
       font-size: medium;
       background-color: #000;
 
-    
-    
      }
     
    }
 
-   
-  
+   /* Media queries de la tabla */
+   @media (max-width: 768px) {
+    table {
+        width: 100%;
+        display: block;
+    }
+
+    thead {
+        display: none;
+    }
+
+    tr {
+        border-bottom: 1px solid #ccc;
+    }
+
+    td:first-child {
+        font-weight: bold;
+        text-align: left;
+    }
+
+    td:last-child {
+        text-align: right;
+    }
+
+    th {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+@media (max-width: 768px) {
+  table {
+      width: 100%;
+      display: block;
+  }
+
+  thead {
+      display: none;
+  }
+
+  tr {
+      border-bottom: 1px solid #ccc;
+  }
+
+  td:first-child {
+      font-weight: bold;
+      text-align: left;
+  }
+
+  td:last-child {
+      text-align: right;
+  }
+
+  th {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+
+  .button-mobile {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+  }
+}
+
+
+.button-mobile {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+
+
   
