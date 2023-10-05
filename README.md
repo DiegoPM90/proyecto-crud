@@ -1,12 +1,13 @@
-# proyecto-crud
+#  _PROYECTO-CRUD_ 
 
-# **Indice** 
+# _Indice_
 
 - [¿Qué es CRUD](#introducción)
 - [Descripción del proyecto](#descripción-del-proyecto)
-- [Proceso de selección](#proceso-de-selección)
-- [Procesamiento de los materiales](#procesamiento-de-los-materiales)
-- [Creación de nuevos productos](#creación-de-nuevos-productos)
+- [Funciones](#funciones)
+- [Creación](#creación)
+- [Edición](#edición)
+- [Actualización y Eliminación](#actualización-y-eliminación)
 
 
 
@@ -19,14 +20,24 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
 <p align="justify">
 
   Este CRUD, representa el almacenamiento de base de datos para registro de usuarios utilizando html 5, CSS3 y Javascript. Permite almacenar los datos 
-  ingresados en el navegador.  Presenta formato Mobile first para dispositivos moviles. Permite la: 
-  
-  creación
-  Edición
-  Actualización 
-  Eliminación 
+  ingresados en el navegador.  Presenta formato Mobile first para dispositivos moviles.  
 
-  De datos persistentes en el navegador.
+#  _Funciones_
+
+  
+  #### Creación
+  
+  ![Imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto1.png)
+  
+  #### Edición
+
+  ![imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto2.png)
+  
+  #### Actualización y Eliminación 
+
+  ![imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto3.png)
+
+
 
   
 
