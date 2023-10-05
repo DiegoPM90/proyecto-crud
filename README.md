@@ -22,6 +22,8 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
   ingresados en el navegador.  Presenta formato Mobile first para dispositivos moviles. Permite la: 
   
   creación
+  ![Imagen](imagen.jpg)
+  
   Edición
   Actualización 
   Eliminación 
