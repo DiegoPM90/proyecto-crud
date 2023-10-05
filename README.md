@@ -21,10 +21,13 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
   Este CRUD, representa el almacenamiento de base de datos para registro de usuarios utilizando html 5, CSS3 y Javascript. Permite almacenar los datos 
   ingresados en el navegador.  Presenta formato Mobile first para dispositivos moviles. Permite la: 
   
-  creación
-  ![Imagen](imagen.jpg)
+  #### Creación
+  
+  ![Imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto1.png)
   
   Edición
+
+  ! [imagen] ()
   Actualización 
   Eliminación 
 
