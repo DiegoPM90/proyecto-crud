@@ -4,9 +4,9 @@
 
 - [¿Qué es CRUD](#introducción)
 - [Descripción del proyecto](#descripción-del-proyecto)
-- [Proceso de selección](#proceso-de-selección)
-- [Procesamiento de los materiales](#procesamiento-de-los-materiales)
-- [Creación de nuevos productos](#creación-de-nuevos-productos)
+- [Creación](#creación)
+- [Edición](#edición)
+- [Actualización y Eliminación](#actualización-y-eliminación)
 
 
 
@@ -27,11 +27,11 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
   
   #### Edición
 
-  ! [imagen] (https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto2.png)
+  ![imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto2.png)
   
-  Actualización y Eliminación 
+  #### Actualización y Eliminación 
 
-  ! [imagen] ()
+  ![imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto3.png)
 
 
 
