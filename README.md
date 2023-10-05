@@ -4,6 +4,7 @@
 
 - [¿Qué es CRUD](#introducción)
 - [Descripción del proyecto](#descripción-del-proyecto)
+- [Funciones](#funciones)
 - [Creación](#creación)
 - [Edición](#edición)
 - [Actualización y Eliminación](#actualización-y-eliminación)
@@ -19,7 +20,10 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
 <p align="justify">
 
   Este CRUD, representa el almacenamiento de base de datos para registro de usuarios utilizando html 5, CSS3 y Javascript. Permite almacenar los datos 
-  ingresados en el navegador.  Presenta formato Mobile first para dispositivos moviles. Permite la: 
+  ingresados en el navegador.  Presenta formato Mobile first para dispositivos moviles.  
+
+#  _Funciones_ 
+
   
   #### Creación
   
