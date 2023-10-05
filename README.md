@@ -8,6 +8,7 @@
 - [Creación](#creación)
 - [Edición](#edición)
 - [Actualización y Eliminación](#actualización-y-eliminación)
+- [Puesta en Marcha](#puesta-en-marcha)
 
 
 
@@ -37,7 +38,9 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
 
   ![imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto3.png)
 
+  #### Puesta en marcha 
 
+  ![video] ()
 
   
 
