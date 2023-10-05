@@ -1,6 +1,6 @@
-# PROYECTO-CRUD
+#  _PROYECTO-CRUD_ 
 
-# **Indice** 
+# _Indice_
 
 - [¿Qué es CRUD](#introducción)
 - [Descripción del proyecto](#descripción-del-proyecto)
