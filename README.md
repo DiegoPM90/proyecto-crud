@@ -25,13 +25,15 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
   
   ![Imagen](https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto1.png)
   
-  Edición
+  #### Edición
+
+  ! [imagen] (https://github.com/DiegoPM90/proyecto-crud/blob/main/img/foto2.png)
+  
+  Actualización y Eliminación 
 
   ! [imagen] ()
-  Actualización 
-  Eliminación 
 
-  De datos persistentes en el navegador.
+
 
   
 
