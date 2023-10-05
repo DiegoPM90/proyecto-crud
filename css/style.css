@@ -1,6 +1,6 @@
 body{
-    background-color:#499485;;
-    /* align-items: center; */
+    background-color:#499485;
+  
 
 }
 
@@ -17,7 +17,7 @@ display: none;
 #Submit{
     background-color: #008223;
 }
-
+/* LOGO */
 .logo {
   width: 130px;
   margin-left: 1px;
@@ -29,6 +29,8 @@ display: none;
   width: 140px;
   transition: 0.5s;
 }
+
+/* Background de celdas Nombre, Edad, Dirección, Email, Acciones */
 table th:nth-child(1) {
   background-color: #d0f9fa;
 }
@@ -48,6 +50,97 @@ table th:nth-child(4) {
 table th:nth-child(5) {
   background-color: #d0f9fa;
 }
+
+table {
+    width: 100%;
+}
+
+/* Estilos para las filas de la tabla */
+table tr {
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc; 
+    
+}
+
+/* Estilos para las celdas de la tabla */
+table td,
+table th {
+    flex-basis: calc(20% - 10px); /* Distribuye las columnas de manera uniforme */
+    text-align: center;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+/* Estilos adicionales para dispositivos móviles */
+@media screen and (max-width: 767px) {
+    /* Ajusta la distribución de columnas para dispositivos móviles */
+    table tr {
+        display: flex;
+        flex-wrap: normal;
+        background-color: #ccc;
+    }
+
+    /* Estilos para las celdas en dispositivos móviles */
+    table td,
+    table th {
+        flex-basis: 100%;
+        width: 100%;
+    }
+
+    /* Asegura que las celdas de acciones se ajusten al ancho de la pantalla */
+    table td:last-child {
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .efecto1 {
+        font-size: 16px;
+        color: #000;
+       
+    }
+    
+    .efecto1:hover {
+        font-size: 24px;
+        transition: 0.7s;
+    }
+     
+    }
+
+    /* Efectos del nombre del encabezado th */
+
+  .efecto1 {
+    font-size: 18px ;
+    color: #000;
+    transition: 1s;
+  }
+  /* .efecto2 {
+    font-size: 18px ;
+    color: #000;
+    transition: 1s;
+  }
+  .efecto3 {
+    font-size: 18px ;
+    color: #000;
+    transition: 1s;
+  }
+  .efecto4 {
+    font-size: 18px ;
+    color: #000;
+    transition: 1s;
+  }
+  .efecto5 {
+    font-size: 18px ;
+    color: #000;
+    transition: 1s;
+  }
+     */
+
+
 /* FOOTER */
 
 .container-fluid4{
@@ -169,80 +262,3 @@ table th:nth-child(5) {
     
    }
 
-   /* Media queries de la tabla */
-   @media (max-width: 768px) {
-    table {
-        width: 100%;
-        display: block;
-    }
-
-    thead {
-        display: none;
-    }
-
-    tr {
-        border-bottom: 1px solid #ccc;
-    }
-
-    td:first-child {
-        font-weight: bold;
-        text-align: left;
-    }
-
-    td:last-child {
-        text-align: right;
-    }
-
-    th {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-}
-
-@media (max-width: 768px) {
-  table {
-      width: 100%;
-      display: block;
-  }
-
-  thead {
-      display: none;
-  }
-
-  tr {
-      border-bottom: 1px solid #ccc;
-  }
-
-  td:first-child {
-      font-weight: bold;
-      text-align: left;
-  }
-
-  td:last-child {
-      text-align: right;
-  }
-
-  th {
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-  }
-
-  .button-mobile {
-      position: absolute;
-      right: 10px;
-      top: 10px;
-  }
-}
-
-
-.button-mobile {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-}
-
-
-
-  

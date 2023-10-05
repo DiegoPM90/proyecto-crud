@@ -1,3 +1,5 @@
+
+
 // Validar las entradas del formulario antes de enviar datos
 
 function validateForm() {
@@ -65,9 +67,9 @@ function showData() {
         html +=
             '<td><button onclick="deleteData(' +
             index +
-            ')"class="btn btn-danger">Delete</button><button onclick="updateData(' +
+            ')"class="btn btn-danger">eliminar</button><button onclick="updateData(' +
             index +
-            ')" class="btn btn-warning m-2">Edit</button></td>';
+            ')" class="btn btn-warning m-2">editar</button></td>';
         html += "</tr>";
     });
 
@@ -180,3 +182,4 @@ function updateData(index) {
         }
     }
 }
+
