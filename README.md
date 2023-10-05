@@ -26,7 +26,7 @@ CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que 
   Actualización 
   Eliminación 
 
-  De datos persistentes en el navegador. 
+  De datos persistentes en el navegador.
 
   
 
